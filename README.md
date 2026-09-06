@@ -192,3 +192,14 @@ E-Commerce Sales Customer Analytics
        │ Order ID
        ▼
 Order Items
+# 👩‍💻 Author
+
+**Fathima Rushda VK**
+
+---
+
+## ⭐ Project
+
+Built as a **Power BI Data Analytics Portfolio Project** demonstrating
+practical skills in data cleaning, data modeling, DAX, visualization,
+and business intelligence.
